@@ -1,0 +1,8 @@
+A north B a path through the woods
+B south A a path through the woods
+A east C a path through the woods
+C west A a path through the woods
+C north D a path through the woods
+D south C a path through the woods
+B east D a path through the woods
+D west B a path through the woods
